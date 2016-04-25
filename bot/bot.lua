@@ -245,6 +245,15 @@ function create_config( )
     "settings",
     "spam",
     "version",
+    "msguser",
+    "fal",
+    "block",
+    "fullid",
+    "insta",
+    "reply",
+    "mypic",
+    "weather",
+    "voice"
     },
   enabled_lang = {
     "arabic_lang",
